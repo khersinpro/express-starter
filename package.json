@@ -1,0 +1,19 @@
+{
+  "name": "starter-node",
+  "version": "1.0.0",
+  "description": "for node server clone starter",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "author": "Kevin Hersin",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15"
+  }
+}
